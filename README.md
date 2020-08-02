@@ -20,7 +20,7 @@ This is a basic Note taking App which not only allows users to add text but also
   - This will take the Users to another activity in which they will be prompted to enter the **URL** of the image that they intend to download.
   - #### URL Used:
     
-     [Image URL](https://pictures.topspeed.com/IMG/jpg/201303/2014-rolls-royce-wraith-25.jpg): (*https://pictures.topspeed.com/IMG/jpg/201303/2014-rolls-royce-wraith-25.jpg*)
+    https://pictures.topspeed.com/IMG/jpg/201303/2014-rolls-royce-wraith-25.jpg
   - Now, to initiate downloading, Users will have to tap the **download button** (*Down arrow symbol*) at the bottom right corner of the screen.
   - Once the image is downloaded, Users will recieve a notification saying *Image Downloaded* and the downloaded image will be added to their Note.
   
